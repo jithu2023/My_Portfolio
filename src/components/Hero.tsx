@@ -71,7 +71,7 @@ const Hero = () => {
   className=" hero-title  fade-in-element"
   ref={(el) => addToRefs(el, 2)}
 >
-                <span className="title-text">UI/UX Designer</span>
+                <span className="title-text">Full Stack Developer</span>
                 <span className="title-underline"></span>
               </h1>
             </div>
