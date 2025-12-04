@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="nav-menu relative">
         {/* Sliding highlight */}
         <div
-          className="absolute top-0 bottom-0 bg-white rounded-full transition-all duration-500 ease-out z-0"
+          className="absolute top-0 bottom-0 rounded-full transition-all duration-500 ease-out"
           style={highlightStyle}
         ></div>
 
